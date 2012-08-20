@@ -1,5 +1,1 @@
-<code class='php'>
-class Test{
-    public function test(){}
-}
-</code>
+~~删掉的文字~~
