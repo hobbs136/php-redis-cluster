@@ -1,4 +1,5 @@
 <code>
-def hello()
-    print "hello"
+class Test{
+    public function test(){}
+}
 </code>
