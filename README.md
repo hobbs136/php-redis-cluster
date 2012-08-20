@@ -1,1 +1,4 @@
-~~删掉的文字~~
+<pre class="javascript">
+function f() {
+}
+</pre>
