@@ -1,4 +1,6 @@
-<pre class="javascript">
+````php
 function f() {
+  $a = "hello world"
+  echo $a;
 }
-</pre>
+````
