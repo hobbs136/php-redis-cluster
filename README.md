@@ -1,6 +1,3 @@
-```php
-function f() {
-  $a = "hello world"
-  echo $a;
-}
+```javascript
+alert("hello")
 ```
