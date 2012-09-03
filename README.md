@@ -1,6 +1,6 @@
-````php
+```php
 function f() {
   $a = "hello world"
   echo $a;
 }
-````
+```
